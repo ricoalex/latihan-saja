@@ -1,0 +1,6 @@
+Rencana konten Mas Rico
+
+- JAVASCRIPT
+ > ES6
+- PHP Framework
+- APA SAJA
