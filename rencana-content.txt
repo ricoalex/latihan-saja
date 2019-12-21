@@ -2,6 +2,6 @@ Rencana konten Mas Rico
 
 - JAVASCRIPT
  > ES6
- - Data sains
 - PHP Framework
+ ~ Laravel
 - APA SAJA
