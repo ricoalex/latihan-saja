@@ -2,6 +2,7 @@ Rencana konten Mas Rico
 
 - JAVASCRIPT
  > ES6
+ > JQUERY
  - Data sains
 - PHP Framework
 - APA SAJA
