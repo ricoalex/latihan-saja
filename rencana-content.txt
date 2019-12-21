@@ -5,3 +5,7 @@ Rencana konten Mas Rico
  - Data sains
 - PHP Framework
 - APA SAJA
+- Interview
+- Struktur Data dasar
+- PHP Framework
+- Laravel
